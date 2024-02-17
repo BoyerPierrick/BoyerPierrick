@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @BoyerPierrick
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-BoyerPierrick/BoyerPierrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in software development and cloud architecture.
+- 🌱 I’m currently learning .NET technologies, flutter concepts and AWS.
+- 📫 How to reach me pierrick.boyer43@gmail.com
